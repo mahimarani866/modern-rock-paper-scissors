@@ -1,31 +1,42 @@
-# 🎉 Modern Rock Paper Scissors Game in Python (GUI)
+# 🕹️ Modern Rock Paper Scissors Game
 
-A visually appealing, interactive Rock Paper Scissors game with image icons, voice effects, and smooth UI — built using Tkinter, Pillow, and pyttsx3!
+A sleek Rock Paper Scissors game built in Python with modern GUI design principles. Features custom image buttons, voice feedback, and responsive styling that brings web-like aesthetics to desktop gaming.
 
-## Features
-- Custom image buttons for Rock, Paper, and Scissors
-- Fun voice feedback for win, loss, and tie (just like Ludo!)
-- Modern UI colors, fonts, and hover effects
-- Easy to run on any computer: Windows, Linux, Mac
+## 🚀 Features
 
-## How to Run
+- **Custom Image Buttons:** Interactive visual elements with hover effects
+- **Voice Feedback System:** Audio announcements for game results
+- **Modern UI Design:** Clean layout with contemporary color scheme
+- **Real-time Scoreboard:** Live tracking of wins, losses, and ties
+- **Cross-Platform Compatible:** Runs on Windows, Mac, and Linux
 
-1. **Clone repo**  
-   `git clone https://github.com/mahimarani866/.git`
-2. **Install dependencies**  
-   `pip install -r requirements.txt`
-3. **Run the game**  
-   `python rock_paper_scissors.py`
+## 🛠️ Installation
 
-## Customization
 
-Change voices, phrases, icons, or color scheme easily!  
-See the code comments for ideas.
+## 🎮 Usage
 
-## Author
 
-Your Name | [LinkedIn](your-linkedin-url)
+Click on Rock, Paper, or Scissors to play. Listen for voice feedback and watch your score update in real-time.
+
+## 💻 Technologies
+
+- **Python 3** - Core programming language
+- **Tkinter** - GUI framework with custom styling
+- **Pillow** - Image processing and display
+- **pyttsx3** - Text-to-speech engine
+
+## 🎨 Customization
+
+- Replace image files to change button icons
+- Modify color scheme in the main script
+- Adjust voice settings and phrases
+- Update fonts and layout spacing
+
+## 👨‍💻 Author
+
+**Mahima Rani**  
+Python Developer | Data Analysis Specialist
 
 ---
 
-Enjoy! Impress your interviewers and friends. 🚀
+⭐ Star this repo if you enjoyed the project!
