@@ -1,16 +1,16 @@
-
-## 💡 Customization
-
-- Swap out the image files for your own icons
-- Edit colors and fonts in the script for your preferred style
-- Change the voice and result phrases easily
-
 ## 📖 Technologies Used
 
 - **Python 3**
 - **Tkinter** (for GUI, styled to look like web HTML/CSS)
 - **Pillow** (for image support)
 - **pyttsx3** (for voice feedback)
+
+## ✨ Tailor Your Experience
+
+- Showcase your creativity by updating the button graphics with custom images
+- Experiment with different color schemes and font styles right within the Python file
+- Personalize the audio feedback and in-game messages to engage your users or reflect your personality
+
 
 ## 🙋 Author
 
